@@ -1,3 +1,9 @@
+## Connor Krupp's Terminal Dashboard
+
+This is a fork of blessed-contrib by yaronn and his README is below.
+
+I plan to add customized dashboards not utilizing dummy data but rather useful dashboard tools.
+
 ## blessed-contrib
 
 Build dashboards (or any other application) using ascii/ansi art and javascript.
